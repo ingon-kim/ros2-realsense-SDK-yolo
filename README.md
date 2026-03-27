@@ -181,6 +181,9 @@ docker tag ros2-jazzy-realsense-yoloros <your-dockerhub-id>/ros2-jazzy-realsense
 docker push <your-dockerhub-id>/ros2-jazzy-realsense-yoloros:latest
 ```
 
+<img width="1777" height="270" alt="image" src="https://github.com/user-attachments/assets/79fd6eb9-37e0-46c9-964f-6be34624ea2d" />
+
+
 ## 참고
 
 - [mgonzs13/yolo_ros](https://github.com/mgonzs13/yolo_ros) — YOLO ROS2 wrapper (YOLOv3~v12, World, YOLOE 지원)
