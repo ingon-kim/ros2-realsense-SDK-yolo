@@ -2,8 +2,6 @@
 
 ROS2 Jazzy + Intel RealSense SDK + YOLO ROS 통합 Docker 환경
 
-RealSense 카메라로 실시간 객체 탐지(YOLO)를 수행하는 올인원 Docker 이미지입니다.
-
 ## 구성
 
 | 항목 | 내용 |
