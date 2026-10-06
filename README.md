@@ -49,7 +49,7 @@ lsusb | grep -i real
 ## 빌드
 
 ```bash
-git clone https://github.com/ingon1026/ros2-realsense-SDK-yolo.git
+git clone https://github.com/ingon-kim/ros2-realsense-SDK-yolo.git
 cd ros2-realsense-SDK-yolo
 docker build -t ros2-jazzy-realsense-yoloros .
 ```
